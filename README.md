@@ -105,3 +105,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+## 📝 What did I learn about GitHub? (Antonio) 
+
+* GitHub can be used by programmers to make changes in a code without the advantage of keeping track of the changes and the history. There are different branches and actions (pull, push) to be sure that the work is keeped tidy. It is still unclear how to apply it practically.
